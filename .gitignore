@@ -1,0 +1,9 @@
+.idea
+.idea/
+.settings
+.settings/
+.buildpath
+.project
+test*.php
+log.txt
+log/
